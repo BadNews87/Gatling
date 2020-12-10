@@ -1,0 +1,1 @@
+{"LandingPageKey":"generic","Languages":"pl-PL,pl,en-US,en,de","Platform":"web","Manufacturer":"","PromoCode":"","Version":"1.16.0"}
